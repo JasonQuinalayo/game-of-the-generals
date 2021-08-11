@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/game-of-the-generals/static/css/main.1520d1f3.chunk.css",
-    "main.js": "/game-of-the-generals/static/js/main.1e8c0443.chunk.js",
-    "main.js.map": "/game-of-the-generals/static/js/main.1e8c0443.chunk.js.map",
+    "main.js": "/game-of-the-generals/static/js/main.8f240757.chunk.js",
+    "main.js.map": "/game-of-the-generals/static/js/main.8f240757.chunk.js.map",
     "runtime-main.js": "/game-of-the-generals/static/js/runtime-main.c8c25a88.js",
     "runtime-main.js.map": "/game-of-the-generals/static/js/runtime-main.c8c25a88.js.map",
-    "static/js/2.666b2395.chunk.js": "/game-of-the-generals/static/js/2.666b2395.chunk.js",
-    "static/js/2.666b2395.chunk.js.map": "/game-of-the-generals/static/js/2.666b2395.chunk.js.map",
+    "static/js/2.1685ae4a.chunk.js": "/game-of-the-generals/static/js/2.1685ae4a.chunk.js",
+    "static/js/2.1685ae4a.chunk.js.map": "/game-of-the-generals/static/js/2.1685ae4a.chunk.js.map",
     "index.html": "/game-of-the-generals/index.html",
     "static/css/main.1520d1f3.chunk.css.map": "/game-of-the-generals/static/css/main.1520d1f3.chunk.css.map",
-    "static/js/2.666b2395.chunk.js.LICENSE.txt": "/game-of-the-generals/static/js/2.666b2395.chunk.js.LICENSE.txt",
+    "static/js/2.1685ae4a.chunk.js.LICENSE.txt": "/game-of-the-generals/static/js/2.1685ae4a.chunk.js.LICENSE.txt",
     "static/media/colonel2.2fc10ca6.png": "/game-of-the-generals/static/media/colonel2.2fc10ca6.png",
     "static/media/colonel3.8fd0b8b3.png": "/game-of-the-generals/static/media/colonel3.8fd0b8b3.png",
     "static/media/general2.6eb9d2e2.png": "/game-of-the-generals/static/media/general2.6eb9d2e2.png",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c8c25a88.js",
-    "static/js/2.666b2395.chunk.js",
+    "static/js/2.1685ae4a.chunk.js",
     "static/css/main.1520d1f3.chunk.css",
-    "static/js/main.1e8c0443.chunk.js"
+    "static/js/main.8f240757.chunk.js"
   ]
 }
