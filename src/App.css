@@ -1,0 +1,159 @@
+#gotg-main-menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#gotg-main-menu-interface {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#gotg-main-menu button {
+  margin: 20px;
+  height: 30px;
+  width: 150px;
+  font-size: large;
+}
+
+#gotg-main-menu span{
+  text-align: center;
+  line-height: 50px;
+  font-size: large;
+  margin: 20px 0px 20px 0px;
+}
+
+#gotg-main-menu-name-input {
+  margin-bottom: 50px;
+}
+
+#gotg-main-menu input {
+  margin-top: 10px;
+  width: 200px;
+  height: 30px;
+  font-size: large;
+}
+
+#gotg-game {
+  display: flex;
+  align-items: flex-start;
+  margin: 30px;
+}
+
+#gotg-game-board span, #gotg-game-communication-top-row{
+  font-size: larger;
+  font-weight: bold;
+}
+
+#gotg-game-communication-top-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#gotg-game-board {
+  width: min-content;
+}
+
+#gotg-game-board canvas{
+  margin-top: 10px;
+}
+
+#gotg-game-board span{
+  font-size: x-large;
+  color: rgb(129, 11, 11);
+}
+
+#gotg-game-ready-button {
+  opacity:0.5;
+  width: 100px;
+  height: 50px;
+  margin-left: 310px;
+  font-size: medium;
+}
+
+#gotg-video-chat {
+  display: flex;
+  align-items: flex-end;
+}
+
+#gotg-video-chat-videos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#gotg-video-chat-videos button {
+  width: 100px;
+  height: 50px;
+}
+
+#gotg-video-chat-videos video{
+  width: 100%;
+}
+
+.gotg-video-chat-video-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px 0px 10px 0px;
+  width: 360px;
+}
+
+.gotg-video-chat-video-container span {
+  font-weight: bold;
+  font-size: large;
+}
+
+#gotg-chat-box {
+  display: flex;
+  margin-top: 30px;
+  margin-left: 30px;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 600px;
+  width: 360px;
+}
+
+#gotg-chat-box-message-box {
+  display: flex;
+  flex-flow: column-reverse;
+  height: 100%;
+  overflow-y: scroll;
+}
+
+#gotg-chat-box textarea {
+  width: 280px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+}
+
+#gotg-chat-box button{
+  width: 80px;
+}
+
+#gotg-chat-box-input {
+  margin: 10px 0px 10px 0px;
+  display: flex;
+  justify-content: center;
+}
+
+.gotg-chat-box-message {
+  margin: 5px 0px 0px 5px;
+  width: 95%;
+  word-wrap: break-word;
+}
+
+.gotg-chat-box-name {
+  font-weight: bold;
+}
+
+.gotg-chat-box-own-name {
+  color: blue;
+}
+
+.gotg-chat-box-enemy-name {
+  color: red;
+}
