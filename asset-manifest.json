@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/game-of-the-generals/static/css/main.1520d1f3.chunk.css",
-    "main.js": "/game-of-the-generals/static/js/main.5283fb31.chunk.js",
-    "main.js.map": "/game-of-the-generals/static/js/main.5283fb31.chunk.js.map",
+    "main.js": "/game-of-the-generals/static/js/main.ba55c0c5.chunk.js",
+    "main.js.map": "/game-of-the-generals/static/js/main.ba55c0c5.chunk.js.map",
     "runtime-main.js": "/game-of-the-generals/static/js/runtime-main.c8c25a88.js",
     "runtime-main.js.map": "/game-of-the-generals/static/js/runtime-main.c8c25a88.js.map",
     "static/js/2.1685ae4a.chunk.js": "/game-of-the-generals/static/js/2.1685ae4a.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.c8c25a88.js",
     "static/js/2.1685ae4a.chunk.js",
     "static/css/main.1520d1f3.chunk.css",
-    "static/js/main.5283fb31.chunk.js"
+    "static/js/main.ba55c0c5.chunk.js"
   ]
 }
