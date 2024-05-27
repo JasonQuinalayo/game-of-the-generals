@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/game-of-the-generals/static/css/main.4e89269c.css",
+    "main.js": "/game-of-the-generals/static/js/main.93c2b62d.js",
+    "static/media/general5.jpg": "/game-of-the-generals/static/media/general5.602abcc090dc995abb39.jpg",
+    "static/media/general4.png": "/game-of-the-generals/static/media/general4.858b14f1de6eb73673d4.png",
+    "static/media/general3.png": "/game-of-the-generals/static/media/general3.ec0703f9c8520af1216c.png",
+    "static/media/colonel2.png": "/game-of-the-generals/static/media/colonel2.2fc10ca65b1ea317bac3.png",
+    "static/media/sergeant.png": "/game-of-the-generals/static/media/sergeant.0159f98e7992f8c9b82f.png",
+    "static/media/spy.png": "/game-of-the-generals/static/media/spy.32d90bd6a6ccae12ee07.png",
+    "static/media/private.png": "/game-of-the-generals/static/media/private.c5df6a34b3ff803045a2.png",
+    "static/media/general2.png": "/game-of-the-generals/static/media/general2.6eb9d2e29e92416cc6a8.png",
+    "static/media/colonel3.png": "/game-of-the-generals/static/media/colonel3.8fd0b8b3372c887ecc03.png",
+    "static/media/lieutenant1.png": "/game-of-the-generals/static/media/lieutenant1.4b11db59a59a1fbc724f.png",
+    "index.html": "/game-of-the-generals/index.html",
+    "main.4e89269c.css.map": "/game-of-the-generals/static/css/main.4e89269c.css.map",
+    "main.93c2b62d.js.map": "/game-of-the-generals/static/js/main.93c2b62d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e89269c.css",
+    "static/js/main.93c2b62d.js"
+  ]
+}
